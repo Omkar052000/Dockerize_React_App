@@ -1,5 +1,3 @@
-# International Greetings App - React + i18next
-### Complete Code for the i18next Tutorial made on RoadsideCoder Youtube Channel
-### https://www.youtube.com/watch?v=dltHi9GWMIo
-[![Run in Acorn](https://acorn.io/v1-ui/run/badge?image=index.docker.io+roadsidecoder+acorn:v1.0&ref=piyush-eon)](https://acorn.io/run/index.docker.io/roadsidecoder/acorn:v1.0?ref=piyush-eon)
-![i18](https://github.com/piyush-eon/i18next-tutorial-yt/assets/51760520/7f5ab514-0b42-4fa4-bdcb-45067cdd3e39)
+**Dockerized a React Application**
+
+![download](https://github.com/Omkar052000/Dockerize_React_App/assets/69031979/1f92c8bf-c57f-4be4-ade8-1fb39fce9ede)    ![download](https://github.com/Omkar052000/Dockerize_React_App/assets/69031979/995037be-af81-465e-bcbc-35df9a27f934)
